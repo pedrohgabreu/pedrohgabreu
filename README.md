@@ -21,5 +21,5 @@ Estou envolvido em vários projetos que utilizam as tecnologias mencionadas acim
 Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou aberto a novas oportunidades e desafios!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgabreu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgabreu&layout=compact&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgabreu&layout=donut&theme=transparent)](https://github.com/pedrohgabreu/github-readme-stats)
 
