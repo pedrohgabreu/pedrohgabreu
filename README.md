@@ -1,19 +1,12 @@
 # Olá, eu sou Pedro Henrique G. Abreu 👋
 
 ## Sobre Mim
-Sou graduando em **Sistemas de Informação** na **Universidade Federal de Santa Maria**. Tenho um grande interesse em programação e tecnologia, e estou sempre buscando aprender novas habilidades e melhorar minhas competências.
+Atualmente no 4º semestre de Sistemas de Informação na Universidade Federal de Santa Maria, sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência em linguagens como C, C++, Java, Python, HTML e CSS, além de interesse por inteligência artificial, algoritmos e desenvolvimento de jogos.
 
-## Tecnologias e Linguagens
-- **Linguagens de Programação:**
-  - C
-  - Python
-  - Java
-- **Linguagens de Marcação:**
-  - HTML
-  - CSS
+Estou sempre em busca de desafios que ampliem meu conhecimento e me permitam criar soluções eficientes e impactantes.
 
 ## Projetos
-Estou envolvido em vários projetos que utilizam as tecnologias mencionadas acima. Você pode conferir alguns deles aqui no meu perfil.
+Estou envolvido em diversos projetos que utilizam as tecnologias e linguagens mencionadas acima. Você pode conferir alguns deles aqui no meu perfil.
 
 ## Conecte-se Comigo
 - [Email](mailto:pedroabreuiv@gmail.com)
