@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro Henrique G. Abreu 👋
 
 ## Sobre Mim
-Atualmente no 4º semestre de Sistemas de Informação na Universidade Federal de Santa Maria, sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência em linguagens como C, C++, Java, Python, HTML e CSS, além de interesse por inteligência artificial, algoritmos e desenvolvimento de jogos.
+Atualmente no 4º semestre de **Sistemas de Informação** na **Universidade Federal de Santa Maria**, sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência em linguagens como C, C++, Java, Python, HTML e CSS, além de interesse por inteligência artificial, algoritmos e desenvolvimento de jogos.
 
 Estou sempre em busca de desafios que ampliem meu conhecimento e me permitam criar soluções eficientes e impactantes.
 
