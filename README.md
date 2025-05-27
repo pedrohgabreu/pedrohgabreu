@@ -5,8 +5,7 @@ Currently in the 4th semester of **Information Systems** at the **Federal Univer
 
 I'm always looking for challenges that expand my knowledge and allow me to create efficient and impactful solutions.
 
-## Projects
-I'm involved in several projects that use the technologies and languages ​​mentioned above. You can check out some of them here on my profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 - [Email](mailto:pedroabreuiv@gmail.com)
