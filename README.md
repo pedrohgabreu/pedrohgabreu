@@ -16,5 +16,6 @@ I'm always looking for challenges that expand my knowledge and allow me to creat
 
 ## Connect with Me
 - [Email](mailto:pedroabreuiv@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/pwdroabreu/)
 
 Feel free to get in touch or collaborate on projects. I'm open to new opportunities and challenges!
