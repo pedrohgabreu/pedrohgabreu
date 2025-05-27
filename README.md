@@ -5,8 +5,8 @@ Currently in the 4th semester of **Information Systems** at the **Federal Univer
 
 I'm always looking for challenges that expand my knowledge and allow me to create efficient and impactful solutions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgabreu&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgabreu&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgabreu&hide_progress=true&theme=transparent)
+
 
 ## Connect with Me
 - [Email](mailto:pedroabreuiv@gmail.com)
