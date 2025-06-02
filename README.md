@@ -14,8 +14,11 @@ I'm always looking for challenges that expand my knowledge and allow me to creat
 </picture>
 
 
-## Connect with Me
-- [Email](mailto:pedroabreuiv@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/pwdroabreu/)
+ ## Contatos:
+<div>
+<a href="https://instagram.com/pwdroabreu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gmail@pedroabreuiv"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pwdroabreu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Feel free to get in touch or collaborate on projects. I'm open to new opportunities and challenges!
