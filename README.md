@@ -1,7 +1,9 @@
 # Hi, I'm Pedro Henrique G. Abreu 👋
 
 ## About Me
-Currently in the 5th semester of **Information Systems** at the **Federal University of Santa Maria**, I'm passionate about technology, software development and innovative solutions. I have experience in languages ​​such as C, C++, Java, Python, Javascript, HTML and CSS, as well as an interest in artificial intelligence, algorithms and game development.
+Currently in the 5th semester of **Information Systems** at the **Federal University of Santa Maria**, I'm passionate about technology, software development and innovative solutions. I have experience in languages ​​such as C, C++, Java, Python, R, Javascript, HTML and CSS, as well as an interest in artificial intelligence, algorithms and data science.
+
+I am currently also part of the Complex Systems Laboratory at UFSM, where we study the self-organization of systems, such as films, hydrogels and nanoparticles, with applications in the pharmaceutical, biomedical and environmental areas.
 
 I'm always looking for challenges that expand my knowledge and allow me to create efficient and impactful solutions.
 
